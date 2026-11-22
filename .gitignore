@@ -7,4 +7,4 @@ gui_error.log
 build/
 dist/
 __pycache__/
-*.spec
+*.spec*.zip 
