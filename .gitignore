@@ -1,0 +1,10 @@
+webhook.txt
+remote.json
+settings.json
+keylog.txt
+keylog.txt.stop
+gui_error.log
+build/
+dist/
+__pycache__/
+*.spec
